@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Preprocessed Datasets
 permalink: /preprocessed_datasets/
 ---
